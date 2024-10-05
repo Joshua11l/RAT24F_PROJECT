@@ -1,0 +1,18 @@
+Token           Lexeme
+------------------------------
+KEYWORD         function
+IDENTIFIER      computeSum
+DELIMITER       (
+IDENTIFIER      a
+KEYWORD         integer
+DELIMITER       ,
+IDENTIFIER      b
+KEYWORD         real
+DELIMITER       )
+DELIMITER       {
+KEYWORD         return
+IDENTIFIER      a
+OPERATOR        +
+IDENTIFIER      b
+DELIMITER       ;
+DELIMITER       }

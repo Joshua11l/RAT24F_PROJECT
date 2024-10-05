@@ -1,0 +1,12 @@
+integer i, max;
+boolean finished;
+get(i, max);
+while (i <= max) {
+    if (finished != true) {
+        put (computeResult(i));
+        i = i + 1;
+    } else {
+        finished = true;
+    }
+    put(finished);
+}

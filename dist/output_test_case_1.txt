@@ -1,0 +1,20 @@
+Token           Lexeme
+------------------------------
+KEYWORD         if
+DELIMITER       (
+IDENTIFIER      x
+OPERATOR        >
+INTEGER         100
+DELIMITER       )
+IDENTIFIER      y
+ASSIGN          =
+IDENTIFIER      x
+OPERATOR        /
+INTEGER         2
+DELIMITER       ;
+KEYWORD         else
+IDENTIFIER      y
+ASSIGN          =
+INTEGER         0
+DELIMITER       ;
+KEYWORD         fi

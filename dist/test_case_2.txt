@@ -1,0 +1,3 @@
+function computeSum (a integer, b real) {
+    return a + b;
+}
